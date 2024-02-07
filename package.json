@@ -38,6 +38,7 @@
     "nodemon": "^2.0.3",
     "request": "^2.88.2",
     "supertest": "^4.0.2",
-    "simple-update-notifier": "^2.0.0"
+    "simple-update-notifier": "^2.0.0",
+    "semver": "^7.5.2"
   }
 }
