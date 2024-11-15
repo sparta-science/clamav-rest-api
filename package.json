@@ -27,11 +27,11 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.20.0",
-    "express-fileupload": "^1.4.0",
+    "express-fileupload": "^1.4.3",
+    "morgan": "^1.10.0",
     "path-to-regexp": "^0.1.10",
     "send": "^0.19.0",
-    "serve-static": "^1.16.0",
-    "morgan": "^1.10.0"
+    "serve-static": "^1.16.0"
   },
   "devDependencies": {
     "axios": "^1.6.0",
@@ -40,8 +40,8 @@
     "node-fetch": "^2.6.1",
     "nodemon": "^2.0.3",
     "request": "^2.88.2",
-    "supertest": "^4.0.2",
+    "semver": "^7.5.2",
     "simple-update-notifier": "^2.0.0",
-    "semver": "^7.5.2"
+    "supertest": "^4.0.2"
   }
 }
